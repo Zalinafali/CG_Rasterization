@@ -1,0 +1,15 @@
+C:\Users\Maciek\source\repos\ComputerGraphics_Rasterization\ComputerGraphics_Rasterization\bin\Debug\ComputerGraphics_Rasterization.exe.config
+C:\Users\Maciek\source\repos\ComputerGraphics_Rasterization\ComputerGraphics_Rasterization\bin\Debug\ComputerGraphics_Rasterization.exe
+C:\Users\Maciek\source\repos\ComputerGraphics_Rasterization\ComputerGraphics_Rasterization\bin\Debug\ComputerGraphics_Rasterization.pdb
+C:\Users\Maciek\source\repos\ComputerGraphics_Rasterization\ComputerGraphics_Rasterization\obj\Debug\ComputerGraphics_Rasterization.csprojAssemblyReference.cache
+C:\Users\Maciek\source\repos\ComputerGraphics_Rasterization\ComputerGraphics_Rasterization\obj\Debug\MainWindow.g.cs
+C:\Users\Maciek\source\repos\ComputerGraphics_Rasterization\ComputerGraphics_Rasterization\obj\Debug\App.g.cs
+C:\Users\Maciek\source\repos\ComputerGraphics_Rasterization\ComputerGraphics_Rasterization\obj\Debug\ComputerGraphics_Rasterization_MarkupCompile.cache
+C:\Users\Maciek\source\repos\ComputerGraphics_Rasterization\ComputerGraphics_Rasterization\obj\Debug\ComputerGraphics_Rasterization_MarkupCompile.lref
+C:\Users\Maciek\source\repos\ComputerGraphics_Rasterization\ComputerGraphics_Rasterization\obj\Debug\MainWindow.baml
+C:\Users\Maciek\source\repos\ComputerGraphics_Rasterization\ComputerGraphics_Rasterization\obj\Debug\ComputerGraphics_Rasterization.g.resources
+C:\Users\Maciek\source\repos\ComputerGraphics_Rasterization\ComputerGraphics_Rasterization\obj\Debug\ComputerGraphics_Rasterization.Properties.Resources.resources
+C:\Users\Maciek\source\repos\ComputerGraphics_Rasterization\ComputerGraphics_Rasterization\obj\Debug\ComputerGraphics_Rasterization.csproj.GenerateResource.cache
+C:\Users\Maciek\source\repos\ComputerGraphics_Rasterization\ComputerGraphics_Rasterization\obj\Debug\ComputerGraphics_Rasterization.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\source\repos\ComputerGraphics_Rasterization\ComputerGraphics_Rasterization\obj\Debug\ComputerGraphics_Rasterization.exe
+C:\Users\Maciek\source\repos\ComputerGraphics_Rasterization\ComputerGraphics_Rasterization\obj\Debug\ComputerGraphics_Rasterization.pdb
